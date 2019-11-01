@@ -8,4 +8,4 @@ If I'm reviewing someone else's code, I make sure to pay attention to the logic 
 
 ### We have an awful lot of computers here, and it gets pretty confusing with slightly different things running on all of them. How could containers help us improve this situation?
 If we were to think of each computer as a virtual machine, then containers would allow us to set very specific foundations for each machine to work within its intended purpose.
-Thanks to containers/dockers, the machine would come with every package and module it needs to function properly, thus allowing the user to dive in without any setup.
+Thanks to containers/dockers, the machine would come with every package and module it needs to function properly, thus allowing the user to dive in without any setup..
