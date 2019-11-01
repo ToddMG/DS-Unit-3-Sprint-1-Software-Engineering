@@ -5,7 +5,7 @@
 In this sprint challenge you will write code and answer questions related to
 object-oriented programming, code style/reviews, containers, and testing. You
 may use any tools and references you wish, but your final code should reflect
-*your* work and be saved in `.py` files (*not* notebooks), and (along with this
+*your* work and be saved in `.py` files (*not* notebooks),, and (along with this
 file including your written answers) added to your
 `DS-Unit-3-Sprint-1-Software-Engineering` repository.
 
